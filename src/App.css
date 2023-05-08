@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&family=Sigmar&display=swap');
+body {
+    font-family: 'Roboto', sans-serif !important;
+}
+.logoFont {
+    font-family: 'Sigmar', cursive;
+}
+.ck-editor__editable_inline {
+    min-height: 264px;
+}
+
+
